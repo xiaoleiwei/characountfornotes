@@ -1,0 +1,10 @@
+Package: com.naken.characountfornotes8
+Name: CharacountForNotes8
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: weixiaolei
+Author: weixiaolei
+Section: Tweaks
+Version: 1.0-30+debug
+Installed-Size: 136
